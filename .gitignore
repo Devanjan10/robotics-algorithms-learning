@@ -1,0 +1,7 @@
+# Compiled C/C++ files 
+*.o
+*.out 
+# Executable files
+01-cpp-basics/hello
+#VS code local settings
+.vscode/
